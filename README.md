@@ -1,2 +1,2 @@
-# SSGOT
-SSGOT: Spatial–Semantic Graph-Guided Optimal Transport for Optical–SAR Image Registration
+# SURGE
+SURGE: A Relation-Consistent Unbalanced Optimal Transport Framework for Optical–SAR Image Registration
